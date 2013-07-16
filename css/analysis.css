@@ -18,9 +18,10 @@ body {
 
 header {
 	margin-bottom: 6%;
-	line-height: 100%;
+	line-height: 75%;
 	font-size: 1.75em;
 	color: #030303;
+	height: 10%;
 }
 
 .left_head {
