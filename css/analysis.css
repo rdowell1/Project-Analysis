@@ -59,18 +59,18 @@ ul {
 	margin-left: 2%;
 	list-style-type: square;
 	line-height: 175%;
-	color: 0000ff;
+	color: #0054a6;
 }
 
 li {
 	font-size: 0.875em;
 	font-weight: normal;
-	color: 0000ff;
+	color: #0054a6;
 }
 
 strong {
 	-web-font-weight: 700;
-	font-size: 1em;
+	font-size: 1.2em;
 }
 
 #build {
