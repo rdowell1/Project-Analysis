@@ -31,13 +31,19 @@ header {
 	float: right;
 }
 
+section {
+	font: Helvetica;
+	float: right;
+}
+
 h1 {
 	font-weight: 700;
 	color: #030303;
 	font-size: 2em;
 	width: 100%;
+	padding-top: 1.5%;
 	padding-bottom: 1.5%;
-	margin: 1% 0;
+	margin: 5% 0;
 	border-bottom: 2px solid #7accc8;
 }
 
@@ -63,14 +69,15 @@ ul {
 }
 
 li {
-	font-size: 0.875em;
+	font-size: 1em;
 	font-weight: normal;
 	color: #0054a6;
 }
 
 strong {
 	-web-font-weight: 700;
-	font-size: 1.2em;
+	font-size: 1em;
+	color: #0054a6;
 }
 
 #build {
